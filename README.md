@@ -14,8 +14,6 @@
 #### 7. Top selling kiosks by forecasted revenue
 #### 8. Top selling products by forecasted demand
 
-# Theoritical foundation on modelling and challenges in context to livello's time series data - ![click here](https://livello.atlassian.net/wiki/spaces/LIV/pages/2403074049/Revenue+and+Product+Demand+SARIMA+Forecast)
-
 # How to run:
 
 1. `pip install -r requirements.txt`
