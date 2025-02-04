@@ -1,0 +1,72 @@
+index,Date,ProductId,KioskId,GrossPrice,KioskName,ProductName
+334,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+337,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+338,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+339,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+340,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+341,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+342,2019-08-21 17:02:15,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+855,2019-09-16 21:39:11,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+856,2019-09-16 21:39:11,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+857,2019-09-16 21:39:11,5ce5a6205b1137002ef8b8bd,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Sandwich  (diverse Sorten)
+351,2019-08-21 18:16:11,5ce6657d4d0618002efa6d80,5d26f6fbc112e8002eb64948,7.5,Publicis,Natsu Sushi Hinata
+355,2019-08-21 18:16:11,5ce6657d4d0618002efa6d80,5d26f6fbc112e8002eb64948,4.5,Publicis,Natsu Sushi Hinata
+356,2019-08-21 18:16:11,5ce6657d4d0618002efa6d80,5d26f6fbc112e8002eb64948,7.5,Publicis,Natsu Sushi Hinata
+357,2019-08-21 18:16:11,5ce6657d4d0618002efa6d80,5d26f6fbc112e8002eb64948,4.5,Publicis,Natsu Sushi Hinata
+358,2019-08-21 18:16:11,5ce6657d4d0618002efa6d80,5d26f6fbc112e8002eb64948,4.5,Publicis,Natsu Sushi Hinata
+0,2019-05-27 14:34:56,5ce7f6e5fb52670030116ef4,5d26f6fbc112e8002eb64948,3,Publicis,Natsu Wrap
+1,2019-06-13 14:47:45,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+10997,2020-09-09 09:32:25,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+19349,2020-12-18 17:29:20,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+30160,2021-03-24 12:50:46,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+30165,2021-03-24 13:43:38,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+31986,2021-04-09 13:53:04,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+31989,2021-04-09 14:56:59,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,0.1,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+33496,2021-04-21 14:32:28,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,0.1,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+33810,2021-04-23 09:58:58,5ce5a6205b1137002ef8b8bd,5c17a3d963ca649138ec522c,0.1,Happy Lunch Fridge,Natsu Sandwich  (diverse Sorten)
+20,2019-06-14 17:16:07,5ce5be56a62928002d768a17,5c17a3d963ca649138ec522c,2,Happy Lunch Fridge,True Fruits
+21,2019-06-14 17:16:08,5ce5be56a62928002d768a17,5c17a3d963ca649138ec522c,2,Happy Lunch Fridge,True Fruits
+22,2019-06-14 17:16:09,5ce5be56a62928002d768a17,5c17a3d963ca649138ec522c,2,Happy Lunch Fridge,True Fruits
+23,2019-06-14 17:16:10,5ce5be56a62928002d768a17,5c17a3d963ca649138ec522c,2,Happy Lunch Fridge,True Fruits
+24,2019-06-14 17:16:11,5ce5be56a62928002d768a17,5c17a3d963ca649138ec522c,2,Happy Lunch Fridge,True Fruits
+44969,2021-07-02 09:27:34,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,5.5,Happy Lunch Fridge,Natsu Sushi Hinata
+45018,2021-07-02 10:58:12,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,5.5,Happy Lunch Fridge,Natsu Sushi Hinata
+48733,2021-07-23 06:54:59,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,5.5,Happy Lunch Fridge,Natsu Sushi Hinata
+73058,2021-10-28 11:07:07,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,0.05,Happy Lunch Fridge,Natsu Sushi Hinata
+73059,2021-10-28 11:07:07,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,0.05,Happy Lunch Fridge,Natsu Sushi Hinata
+73274,2021-10-28 15:08:08,5ce6657d4d0618002efa6d80,5c17a3d963ca649138ec522c,0.05,Happy Lunch Fridge,Natsu Sushi Hinata
+48327,2021-07-20 07:49:07,5ce7f6e5fb52670030116ef4,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Wrap
+52076,2021-08-11 06:51:24,5ce7f6e5fb52670030116ef4,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Wrap
+41100,2021-06-11 16:24:58,5ce804504edb74002d2d16e9,5c17a3d963ca649138ec522c,3,Happy Lunch Fridge,Natsu Salat
+73052,2021-10-28 10:48:33,5ce8da44f5cc72002fee0d48,5c17a3d963ca649138ec522c,0.2,Happy Lunch Fridge,Little Lunch Suppe
+73077,2021-10-28 11:21:05,5ce8da44f5cc72002fee0d48,5c17a3d963ca649138ec522c,0.2,Happy Lunch Fridge,Little Lunch Suppe
+79862,2021-11-18 10:37:34,5ce8da44f5cc72002fee0d48,5c17a3d963ca649138ec522c,0.2,Happy Lunch Fridge,Little Lunch Suppe
+93115,2022-01-13 14:51:26,5ce8da44f5cc72002fee0d48,5c17a3d963ca649138ec522c,0.2,Happy Lunch Fridge,Little Lunch Suppe
+42069,2021-06-17 13:28:32,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+43593,2021-06-25 12:53:27,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+45019,2021-07-02 10:58:12,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+48372,2021-07-20 08:48:50,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+48373,2021-07-20 08:48:50,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+48393,2021-07-20 10:59:22,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+48394,2021-07-20 10:59:22,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+48569,2021-07-21 15:17:14,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+57609,2021-09-06 06:34:31,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+57751,2021-09-06 07:45:08,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,1.7,Happy Lunch Fridge,Raw Bite Riegel
+64507,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64508,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64509,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64510,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64511,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64512,2021-09-29 11:19:40,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64517,2021-09-29 12:17:18,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+64518,2021-09-29 12:17:18,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+73069,2021-10-28 11:16:05,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+79350,2021-11-16 15:07:38,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+79351,2021-11-16 15:07:38,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+79865,2021-11-18 10:37:34,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+97803,2022-01-28 15:28:04,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+97804,2022-01-28 15:28:04,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+105648,2022-02-22 10:46:51,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+105649,2022-02-22 10:46:51,5ce8e72bf5cc72002fee0d4b,5c17a3d963ca649138ec522c,0.03,Happy Lunch Fridge,Raw Bite Riegel
+118881,2022-03-28 12:57:00,5ce8eb23388a910032be45d6,5c17a3d963ca649138ec522c,1.8,Happy Lunch Fridge,Kookie Cat Keks
+118889,2024-04-18 12:57:00,5ce8eb23388a910032be45d6,5c17a3d963ca649138ec522c,1.8,Happy Lunch Fridge,Kookie Cat Keks
